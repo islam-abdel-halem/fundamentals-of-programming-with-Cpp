@@ -57,10 +57,8 @@ int main()
     // unsigned int num_four = -10; // Problem
     // cout << num_four << "\n";
 
-    // using bignum = long long int;
-
-    typedef long long int bignum;
-
+    // typedef long long int bignum;
+    using bignum = long long int;
     bignum my_number = 100010001000;
     cout << my_number << "\n";
 
