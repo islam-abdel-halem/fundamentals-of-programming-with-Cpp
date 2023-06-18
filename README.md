@@ -42,10 +42,10 @@ The full course of foundation in learning programming before choosing a career f
   - [x] ` in progress` ` 2h 4m 44s` - 02 - [Problems Solving Very easy level](/Programing%20Fundamentals%20C%2B%2B/02-Problems%20Solving%20Very%20easy%20level/)
         <br />
 
-<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h11m-blue">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-22h11m-blue">
 
 
-
+<!-- 
 - ## LEARN HTML, CSS, and GitHub
   ![100%](https://progress-bar.dev/100/?title=Done)
   - [x] ` in progress` `37h 30m` - 01 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
@@ -102,4 +102,4 @@ The full course of foundation in learning programming before choosing a career f
 - [ ] `in progress` `4h27m` - 17 - [Serverless Functions with Netlify | YouTube ](<03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02)>)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-20h39m-blue">
-<br />
+<br /> -->
