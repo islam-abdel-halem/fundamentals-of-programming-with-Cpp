@@ -31,14 +31,14 @@ The full course of foundation in learning programming before choosing a career f
 
 <span id="Fundamentals"> </span>
 
-# Learn Programing Fundamentals ,HTMl and CSS
+# Learn Programing Fundamentals C++
 
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 
-- ## Programming foundations
+- ## Programing Fundamentals C++
 
-  - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals/)
+  - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Fundamentals C++](Programming Language/)
   - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
         <br />
 
