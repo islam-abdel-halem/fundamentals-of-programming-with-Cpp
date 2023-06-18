@@ -38,13 +38,13 @@ The full course of foundation in learning programming before choosing a career f
 
 - ## Programing Fundamentals C++
 
-  - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Fundamentals C++](Programming%20Language/)
-  - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
+  - [x] ` in progress` ` 20h 6m 40s` - 01 - [Programming Fundamentals C++](/Programing%20Fundamentals%20C%2B%2B/01-Programming%20Language/)
+  - [x] ` in progress` ` 2h 4m 44s` - 02 - [Problems Solving Very easy level](/Programing%20Fundamentals%20C%2B%2B/02-Problems%20Solving%20Very%20easy%20level/)
         <br />
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-4h11m-blue">
 
-<!-- LEARN HTML, CSS, and GitHub -->
+
 
 - ## LEARN HTML, CSS, and GitHub
   ![100%](https://progress-bar.dev/100/?title=Done)
