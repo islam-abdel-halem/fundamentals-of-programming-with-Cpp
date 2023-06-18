@@ -6,6 +6,7 @@
 <br>![Codewars](https://github.r2v.ch/codewars?user=islam-abdel-halem&top_languages=true)
 <br><br>[Course Link](https://www.youtube.com/watch?v=YwiXDtIJ9Vo&list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru)
 <br>[Course Plan](https://elzero.org/problems-solving-level-one/)
-![codewars-color](https://github.com/islam-abdel-halem/fundamentals-of-programming-with-c--/assets/102685868/4bf94355-ee04-429b-b01d-27972be840fe)
+<img src="https://github.com/islam-abdel-halem/fundamentals-of-programming-with-c--/assets/102685868/4bf94355-ee04-429b-b01d-27972be840fe" alt="Girl in a jacket" width="500" height="600">
+
 
 
