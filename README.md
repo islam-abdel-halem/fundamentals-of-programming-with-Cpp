@@ -38,7 +38,7 @@ The full course of foundation in learning programming before choosing a career f
 
 - ## Programing Fundamentals C++
 
-  - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Fundamentals C++](Programming Language/)
+  - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Fundamentals C++](Programming%20Language/)
   - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
         <br />
 
