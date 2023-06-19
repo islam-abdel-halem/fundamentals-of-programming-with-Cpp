@@ -11,7 +11,7 @@ int main()
 {
   int nums[]{10, 20, 30, 40, 50};
   // cout << nums << "\n";     // 1st Element => Memory Address
-  // cout << &#038;nums[0] << "\n"; // 1st Element => Memory Address
+  // cout << &;nums[0] << "\n"; // 1st Element => Memory Address
 
   // cout << nums[0] << "\n"; // 1st Element => 10
   // cout << *nums << "\n";   // 1st Element => 10
