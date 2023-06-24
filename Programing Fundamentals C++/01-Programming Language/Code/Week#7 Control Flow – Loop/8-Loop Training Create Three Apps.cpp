@@ -35,7 +35,7 @@ int main()
   int guessNumber = 7;
   int guessTries = 0;
   int choose;
-  cout << "Please Guess The Number Between 1 &#038; 10\n";
+  cout << "Please Guess The Number Between 1 & 10\n";
 
   while (true)
   {
